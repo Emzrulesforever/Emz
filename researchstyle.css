@@ -1,0 +1,39 @@
+body{
+font-family: 'New Tegomin',
+ serif;
+
+}
+.logo{
+  width:100px;
+}
+
+.sidebar{
+  float: left;
+  width:9em;
+ padding: 3px 1.5em 50px 1.3em;
+position:absolute;
+}
+.mainsection{
+  margin: 0 0 0 11em;
+}
+.article{
+  padding: 1.25em 1.5em 2.5em
+  1.5em;
+  border-left: 1px solid white; 
+  background-color: pink;
+  line-height:1.6;
+  font-size:0.876.em;
+  border-top: 1px solid white ;
+  border-bottom: 1px solid white 
+}
+.mainsectionimage{
+border: 1px solid whitesmoke;
+padding: 3px;
+float: right;
+background-color: white;
+font-size:95%;
+overflow:hidden;
+line-height: 0.1em;
+margin: 0 0 5px 15px;
+text-align:left;
+}

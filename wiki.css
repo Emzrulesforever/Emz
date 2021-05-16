@@ -1,0 +1,40 @@
+body{
+font-family: 'New Tegomin',
+ serif;
+
+}
+.mainsection{
+  background-color: lightblue;
+ 
+}
+.main{
+  background-color: pink 
+}
+.chicken{
+  background-color: paleturquoise;
+  padding:3px;
+  padding-left: 50px;
+  border : 1px solid white;
+}
+.Naruto{
+  background-color: lightgoldenrodyellow;
+  padding-left: 50px
+ 
+}
+.Duck{
+  background-color:azure;
+}
+.mainsectionimage{
+  border: 1px solid whitesmoke;
+padding: 3px;
+float: right;
+background-color: white;
+font-size:95%;
+overflow:hidden;
+line-height: 0.1em;
+margin: 0 0 5px 15px;
+
+
+}
+.ee { background-color: honeydew
+}
